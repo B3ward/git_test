@@ -1,3 +1,3 @@
-# git_test
+# MY first repositery!
 
-Hello Odin!
+Hello everyone 👋
