@@ -1,3 +1,3 @@
 # MY first repository!
 
-H3ll0 W0rld 👋
+H3llO W0rld 👋
