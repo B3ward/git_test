@@ -1,3 +1,3 @@
-# MY first repositery!
+# MY first repository!
 
-Hello everyone 👋
+H3ll0 W0rld 👋
